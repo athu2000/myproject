@@ -1,3 +1,3 @@
 void main(){
-  print("Welcome to Luminar Technolab");
+  print("Luminar Technolab");
 }
