@@ -3,7 +3,7 @@ void main(){
   String storage = '128GB';
   int androidver = 12;
   String conn    = '4G';
-  int mobile     = 9072875391;
+  int mobile     = 1234567890;
 
   print('******My Mobile Details******');
   print('The name of my phone is $name');
